@@ -7,3 +7,9 @@ and removes the virus from them. Estimate:
 (a) the expected time it takes to remove the virus from the whole network;
 (b) the probability that each computer gets infected at least once;
 (c) the expected number of computers that get infected.
+
+Co-author-by: Andrew Kim <akim5808@gmail.com> 
+
+GitHub account: akim8085
+
+Co-author-by: Jamal Ashby <jashby3@student.gsu.edu>
